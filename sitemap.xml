@@ -1,1 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://cxndylaw.github.io/myPortfolio/projects/project1/</loc></url><url><loc>https://cxndylaw.github.io/myPortfolio/projects/project2/</loc></url><url><loc>https://cxndylaw.github.io/myPortfolio/</loc><lastmod>2025-10-23T13:08:26+08:00</lastmod></url><url><loc>https://cxndylaw.github.io/myPortfolio/experience/</loc><lastmod>2025-10-23T13:08:26+08:00</lastmod></url><url><loc>https://cxndylaw.github.io/myPortfolio/aboutme/</loc><lastmod>2025-10-23T00:00:00+00:00</lastmod></url><url><loc>https://cxndylaw.github.io/myPortfolio/contact/</loc><lastmod>2025-10-23T00:00:00+00:00</lastmod></url><url><loc>https://cxndylaw.github.io/myPortfolio/experience/intern1/</loc><lastmod>2025-06-01T00:00:00+00:00</lastmod></url><url><loc>https://cxndylaw.github.io/myPortfolio/education/uni/</loc></url><url><loc>https://cxndylaw.github.io/myPortfolio/categories/</loc></url><url><loc>https://cxndylaw.github.io/myPortfolio/education/</loc></url><url><loc>https://cxndylaw.github.io/myPortfolio/projects/</loc></url><url><loc>https://cxndylaw.github.io/myPortfolio/skills/</loc></url><url><loc>https://cxndylaw.github.io/myPortfolio/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>//localhost:1313/projects/project1/</loc>
+  </url><url>
+    <loc>//localhost:1313/projects/project2/</loc>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2025-10-23T13:08:26+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/experience/</loc>
+    <lastmod>2025-10-23T13:08:26+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/aboutme/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/contact/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/experience/intern1/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/education/uni/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/education/</loc>
+  </url><url>
+    <loc>//localhost:1313/projects/</loc>
+  </url><url>
+    <loc>//localhost:1313/skills/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+  </url>
+</urlset>

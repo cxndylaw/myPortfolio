@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on Cindy Lawrence</title>
-    <link>https://cxndylaw.github.io/myportfolio/categories/</link>
-    <description>Recent content in Categories on Cindy Lawrence</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    <atom:link href="https://cxndylaw.github.io/myportfolio/categories/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Cindy Lawrence</title><link>https://cxndylaw.github.io/myPortfolio/categories/</link><description>Recent content in Categories on Cindy Lawrence</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://cxndylaw.github.io/myPortfolio/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

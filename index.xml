@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cindy Lawrence</title>
+    <link>https://cxndylaw.github.io/myportfolio/</link>
+    <description>Recent content on Cindy Lawrence</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cxndylaw.github.io/myportfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Study Quest</title>
+      <link>https://cxndylaw.github.io/myportfolio/projects/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cxndylaw.github.io/myportfolio/projects/project1/</guid>
+      <description>&lt;p&gt;A sleek interactive dashboard that visualizes user metrics in real time.&#xA;Includes light/dark themes, smooth transitions, and live data widgets.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CloudHold Proxy</title>
+      <link>https://cxndylaw.github.io/myportfolio/projects/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cxndylaw.github.io/myportfolio/projects/project2/</guid>
+      <description>&lt;p&gt;An intuitive portfolio builder allowing drag-and-drop section customization.&#xA;Built with SvelteKit and Firebase backend for authentication and storage.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Software Engineering Intern</title>
+      <link>https://cxndylaw.github.io/myportfolio/experience/intern1/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cxndylaw.github.io/myportfolio/experience/intern1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bachelor of Software Engineering</title>
+      <link>https://cxndylaw.github.io/myportfolio/education/uni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cxndylaw.github.io/myportfolio/education/uni/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

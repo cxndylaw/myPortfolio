@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>About Me on Cindy Lawrence</title>
-    <link>//localhost:1313/aboutme/</link>
-    <description>Recent content in About Me on Cindy Lawrence</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="//localhost:1313/aboutme/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About Me on Cindy Lawrence</title><link>/aboutme/</link><description>Recent content in About Me on Cindy Lawrence</description><generator>Hugo</generator><language>en-US</language><lastBuildDate/><atom:link href="/aboutme/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
